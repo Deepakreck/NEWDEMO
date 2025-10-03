@@ -1,0 +1,54 @@
+body{
+    height: 900px;
+    background-color: rgb(249, 128, 128);
+    /* margin-left: 500px; */
+    border-style: solid;
+}
+
+img{ 
+    border-style: solid;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    width: 50px;
+    float: left;
+}
+
+.toggle{
+    border-style: solid;
+    border-color: black;
+background-color: aqua !important ;
+display:inline-block;
+clear: both;
+margin-left: 104px;
+width: 100px;
+}
+
+.navigationbar{
+background-color: bisque;
+margin-right: 4px;
+margin-top: 14px;
+width: 80px;
+display:inline-block;
+
+}
+
+#home{
+    /* margin-left: 900px; */
+border-style: solid;
+
+
+}
+
+#newrecipe{
+    border-style: solid;
+
+}
+
+#about{
+    border-style: solid;
+
+}
+#contactus{
+    border-style: solid;
+
+}
